@@ -45,14 +45,14 @@ begin
 				-- in registers at index --> reg_number --
 				-- to data_out signal                   --
 				------------------------------------------
-				data_out <= registers(bv_to_integer(reg_number)) after prop_delay;
+				data_out <= registers(bv_to_natural(reg_number)) after prop_delay;
 			else
 				---------------------------------------------
 				--     [Performing 'WRITE' operation]      --
 				-- Value from 'data_in' is copied into     --
 				-- registers at reg index --> "reg_number' --
 				---------------------------------------------
-				registers(bv_to_integer(reg_number)) := data_in;
+				registers(bv_to_natural(reg_number)) := data_in;
 				---------------------------------------------
 				-- No prop_delay applied as we don't want  --
 				-- to delay variable assignment            --
