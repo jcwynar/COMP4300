@@ -9,6 +9,8 @@ Specs are detailed in the [specification file](Lab4/AUBIE CPU SPECIFICATIONS.pdf
 
 ## Testing
 ### Sample Instructions
-Sample instructions already loaded into memory inside the datapath file (FINISH RELATIVE LINKING). The following image details the loaded instructions.
+Sample instructions already loaded into memory inside the [datapath file](Lab4/datapath_aubie_v1.vhd). The following image details the loaded instructions.
 
 ![sample instructions](https://github.com/jcwynar/COMP4300/blob/main/Lab4/TestingScreenshots/DataMemoryValues.PNG)
+
+To simulate this processor successfully, you must simulate [interconnect_aubie.vhd](Lab4/interconnect_aubie.vhd).
