@@ -2,10 +2,10 @@
 This folder contains the full AUBIE CPU implementation, with components given by Dr. Chapman as well as from labs 2 and 3.
 
 ## Instruction Set
-Instructions are specified inside the [semantics file](SEMANTICS OF AUBIE PROCESSOR INSTRUCTIONS.pdf).
+Instructions are specified inside the [semantics file](SEMANTICS%20OF%20AUBIE%20PROCESSOR%20INSTRUCTIONS.pdf).
 
 ## Specification
-Specs are detailed in the [specification file](AUBIE CPU SPECIFICATIONS.pdf).
+Specs are detailed in the [specification file](AUBIE%20CPU%20SPECIFICATION.pdf).
 
 ## Testing
 ### Sample Instructions
