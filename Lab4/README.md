@@ -15,3 +15,8 @@ Sample instructions already loaded into memory inside the [datapath file](Lab4/d
 
 To simulate this processor successfully, you must simulate [interconnect_aubie.vhd](Lab4/interconnect_aubie.vhd).
 A provided sample .do file is included in this repo, located [here](Lab4/aubie.do).
+
+### Complete Wave
+Below is a complete screenshot of the entire run (total 6500 ns).
+
+![complete wave](https://github.com/jcwynar/COMP4300/blob/main/Lab4/TestingScreenshots/CompleteWave(t0-t6500).PNG)
