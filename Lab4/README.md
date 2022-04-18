@@ -10,4 +10,4 @@ Specs are detailed in the [specification file](Lab4/AUBIE CPU SPECIFICATIONS.pdf
 ## Testing
 ### Sample Instructions
 Sample instructions already loaded into memory inside the datapath file (FINISH RELATIVE LINKING). The following image details the loaded instructions.
-![sample instructions](Lab4/TestingScreenshots/DataMemoryValues.PNG)
+![sample instructions](https://github.com/jcwynar/COMP4300/blob/main/Lab4/TestingScreenshots/DataMemoryValues.PNG)
