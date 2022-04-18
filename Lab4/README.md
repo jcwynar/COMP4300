@@ -38,4 +38,5 @@ To check your results, we can view our local register file values, shown below.
 
 ### Other Testing
 To see testing for the ALU, navigate to the [Lab 2 folder](../Lab2). The results will be the same, as I simply copy pasted
-the code from Lab 2 into the control file for AUBIE.
+the code from Lab 2 into the control file for AUBIE. This goes the same for the Register File and the DLX Register. You can find
+that testing [here](../Lab3).
